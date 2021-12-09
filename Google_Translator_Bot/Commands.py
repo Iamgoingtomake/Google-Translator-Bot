@@ -29,7 +29,7 @@ async def start_main(main, update):
                 [
                     InlineKeyboardButton
                         (
-                            text = "🤠 Credits 🤠", callback_data="credits"
+                            text = "🤠 Other Bots 🤠", callback_data="credits"
                         )
                 ]
             ]
