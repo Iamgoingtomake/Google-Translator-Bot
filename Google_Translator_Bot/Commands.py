@@ -23,13 +23,13 @@ async def start_main(main, update):
                 [
                     InlineKeyboardButton
                         (
-                            text = "✅️ UpdateChannel ✅️", url = "https://t.me/HyetelegramBots"
+                            text = "✅️ UpdateChannel ✅️", url = "https://t.me/Hyet, url = "https://t.me/HyeteelegramBots"
                          )
                 ],
                 [
                     InlineKeyboardButton
                         (
-                            text = "🤠 Other Bots 🤠", callback_data="credits"
+                            text = "🤠 Other Bots 🤠", url = "https://t.me/HyetelegramBots/54"
                         )
                 ]
             ]
